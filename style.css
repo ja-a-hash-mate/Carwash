@@ -1,6 +1,11 @@
 
-background {
-  background-color: black;
-  padding: 20px;
-  text-align: center;
+body {
+  background-color: powderblue;
+
+}
+
+.Importance {
+  background-color: rgb(246, 42, 102)
+  ;
+  border: 40px;
 }
