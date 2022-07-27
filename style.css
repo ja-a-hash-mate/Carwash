@@ -5,7 +5,13 @@ body {
 }
 
 .Importance {
-  background-color: rgb(246, 42, 102)
-  ;
+  background-color: rgb(168, 209, 214);
   border: 40px;
+}
+
+table {
+  background-color: rgb(168, 209, 214);
+  color: black;
+  border: 40px;
+  text-align: center;
 }
